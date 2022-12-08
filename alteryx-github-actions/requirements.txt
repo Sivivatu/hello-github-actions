@@ -1,5 +1,5 @@
 AlteryxGalleryAPI==0.0.7
-certifi==2021.10.8
+certifi==2022.12.7
 charset-normalizer==2.0.7
 idna==3.3
 python-decouple==3.5
